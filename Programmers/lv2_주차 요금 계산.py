@@ -36,4 +36,4 @@ def solution(fees, records):
     for i in money:
         money[i] = cal(bt, bf, ut, uf, cum[i])
     
-    return [money[i] for i in sorted(list(money.keys()))]
+    return [money[i] for i in sorted(list(money.keys()))] 
