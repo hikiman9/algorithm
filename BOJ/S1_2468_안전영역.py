@@ -36,4 +36,6 @@ for i in range(1, 101):
                 safe += 1
     count.append(safe)
 
-print(max(count))
+answer = max(1, max(count))
+
+print(answer)
