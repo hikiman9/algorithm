@@ -34,6 +34,6 @@ for i in range(m):
         if area[i][j] == 1:
             dfs(i, j)
             answer.append(count)
-
+print(len(answer))
 for i in sorted(answer):
     print(i, end=" ")
