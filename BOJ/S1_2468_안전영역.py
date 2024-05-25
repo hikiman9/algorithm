@@ -35,7 +35,7 @@ for i in range(1, 101):
             if dfs(j, k, i):
                 safe += 1
     count.append(safe)
-
+ 
 answer = max(1, max(count))
 
 print(answer)
