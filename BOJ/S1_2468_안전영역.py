@@ -23,7 +23,7 @@ n = int(input())
 
 area = []
 for _ in range(n):
-    area.append(list(map(int, sys.stdin.readline().split())))
+    area.append(list(map(int, sys.stdin.readline().split()))) 
 
 
 count = []
