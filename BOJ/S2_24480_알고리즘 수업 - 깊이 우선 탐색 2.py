@@ -17,7 +17,7 @@ for __ in range(m):
     graph[a].append(b)
     graph[b].append(a)
 
-for i in graph:
+for i in graph: 
     i.sort(reverse=True)
 
 visited = [False] * (n + 1)
