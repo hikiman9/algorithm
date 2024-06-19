@@ -26,4 +26,4 @@ while q:
     if len(set(answer)) > 1:
         break
 print(answer[0])
-print(answer.count(min(answer)))
+print(answer.count(min(answer))) 
