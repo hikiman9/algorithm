@@ -38,4 +38,4 @@ for i in range(1, 101):
  
 answer = max(1, max(count))
 
-print(answer) 
+print(answer)
