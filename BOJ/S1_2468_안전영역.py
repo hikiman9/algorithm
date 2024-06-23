@@ -33,7 +33,7 @@ for i in range(1, 101):
     for j in range(n):
         for k in range(n):
             if dfs(j, k, i):
-                safe += 1
+                safe += 1 
     count.append(safe)
  
 answer = max(1, max(count))
