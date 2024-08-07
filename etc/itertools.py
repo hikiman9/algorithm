@@ -32,4 +32,4 @@ print(a) # [(1, 'a', '#'), (1, 'a', '$'), (1, 'b', '#'), (1, 'b', '$'), (2, 'a',
 
 # 요소가 2개인 중복 조합
 a = list(itertools.combinations_with_replacement(arr, 2))
-print(a)
+print(a) 
