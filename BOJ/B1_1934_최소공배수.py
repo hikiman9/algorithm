@@ -12,4 +12,4 @@ n = int(sys.stdin.readline())
 
 for _ in range(n):
     i, j = map(int, sys.stdin.readline().split())
-    print(lcm(i, j))
+    print(lcm(i, j)) 
