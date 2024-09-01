@@ -17,4 +17,4 @@ g = distances[0]
 for i in distances[1 : ]:
     g = gcd(g, i)
 
-print((street[-1] - street[0]) // g - n + 1)
+print((street[-1] - street[0]) // g - n + 1) 
