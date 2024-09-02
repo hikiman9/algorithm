@@ -17,7 +17,7 @@
 # <입력 예시 2>
 # AJKDLSI412K4JSJ9D
 # <출력 예시2>
-# ADDIJJJKKLSS20
+# ADDIJJJKKLSS20 
 
 s = input()
 
