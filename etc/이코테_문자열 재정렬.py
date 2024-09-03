@@ -18,7 +18,6 @@
 # AJKDLSI412K4JSJ9D
 # <출력 예시2>
 # ADDIJJJKKLSS20 
-
 s = input()
 
 chars = ""
