@@ -12,5 +12,5 @@ n = int(input())
 
 for __ in range(n):
     word = input()
-    result = isPalindrome(word)
+    result = isPalindrome(word) 
     print(result[0], result[1])
